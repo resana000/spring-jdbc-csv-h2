@@ -1,5 +1,5 @@
 # spring-jdbc-csv-h2
 
-ildar
+тестовое задание
 
 mvn clean install
